@@ -1,2 +1,2 @@
 # juegojava
-Este es un juego sencillo en java
+Este es un juego sencillo en java + ia
